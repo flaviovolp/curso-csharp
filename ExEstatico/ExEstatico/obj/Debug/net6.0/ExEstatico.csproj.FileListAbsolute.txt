@@ -1,0 +1,15 @@
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ExEstatico\ExEstatico\bin\Debug\net6.0\ExEstatico.exe
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ExEstatico\ExEstatico\bin\Debug\net6.0\ExEstatico.deps.json
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ExEstatico\ExEstatico\bin\Debug\net6.0\ExEstatico.runtimeconfig.json
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ExEstatico\ExEstatico\bin\Debug\net6.0\ExEstatico.dll
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ExEstatico\ExEstatico\bin\Debug\net6.0\ExEstatico.pdb
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ExEstatico\ExEstatico\obj\Debug\net6.0\ExEstatico.csproj.AssemblyReference.cache
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ExEstatico\ExEstatico\obj\Debug\net6.0\ExEstatico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ExEstatico\ExEstatico\obj\Debug\net6.0\ExEstatico.AssemblyInfoInputs.cache
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ExEstatico\ExEstatico\obj\Debug\net6.0\ExEstatico.AssemblyInfo.cs
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ExEstatico\ExEstatico\obj\Debug\net6.0\ExEstatico.csproj.CoreCompileInputs.cache
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ExEstatico\ExEstatico\obj\Debug\net6.0\ExEstatico.dll
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ExEstatico\ExEstatico\obj\Debug\net6.0\refint\ExEstatico.dll
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ExEstatico\ExEstatico\obj\Debug\net6.0\ExEstatico.pdb
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ExEstatico\ExEstatico\obj\Debug\net6.0\ExEstatico.genruntimeconfig.cache
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ExEstatico\ExEstatico\obj\Debug\net6.0\ref\ExEstatico.dll

@@ -1,0 +1,15 @@
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ComandoForEach\ComandoForEach\bin\Debug\net6.0\ComandoForEach.exe
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ComandoForEach\ComandoForEach\bin\Debug\net6.0\ComandoForEach.deps.json
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ComandoForEach\ComandoForEach\bin\Debug\net6.0\ComandoForEach.runtimeconfig.json
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ComandoForEach\ComandoForEach\bin\Debug\net6.0\ComandoForEach.dll
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ComandoForEach\ComandoForEach\bin\Debug\net6.0\ComandoForEach.pdb
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ComandoForEach\ComandoForEach\obj\Debug\net6.0\ComandoForEach.csproj.AssemblyReference.cache
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ComandoForEach\ComandoForEach\obj\Debug\net6.0\ComandoForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ComandoForEach\ComandoForEach\obj\Debug\net6.0\ComandoForEach.AssemblyInfoInputs.cache
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ComandoForEach\ComandoForEach\obj\Debug\net6.0\ComandoForEach.AssemblyInfo.cs
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ComandoForEach\ComandoForEach\obj\Debug\net6.0\ComandoForEach.csproj.CoreCompileInputs.cache
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ComandoForEach\ComandoForEach\obj\Debug\net6.0\ComandoForEach.dll
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ComandoForEach\ComandoForEach\obj\Debug\net6.0\refint\ComandoForEach.dll
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ComandoForEach\ComandoForEach\obj\Debug\net6.0\ComandoForEach.pdb
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ComandoForEach\ComandoForEach\obj\Debug\net6.0\ComandoForEach.genruntimeconfig.cache
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ComandoForEach\ComandoForEach\obj\Debug\net6.0\ref\ComandoForEach.dll

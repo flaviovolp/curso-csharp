@@ -1,0 +1,15 @@
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Ex1Classe\Ex1Classe\bin\Debug\net6.0\Ex1Classe.exe
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Ex1Classe\Ex1Classe\bin\Debug\net6.0\Ex1Classe.deps.json
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Ex1Classe\Ex1Classe\bin\Debug\net6.0\Ex1Classe.runtimeconfig.json
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Ex1Classe\Ex1Classe\bin\Debug\net6.0\Ex1Classe.dll
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Ex1Classe\Ex1Classe\bin\Debug\net6.0\Ex1Classe.pdb
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Ex1Classe\Ex1Classe\obj\Debug\net6.0\Ex1Classe.csproj.AssemblyReference.cache
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Ex1Classe\Ex1Classe\obj\Debug\net6.0\Ex1Classe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Ex1Classe\Ex1Classe\obj\Debug\net6.0\Ex1Classe.AssemblyInfoInputs.cache
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Ex1Classe\Ex1Classe\obj\Debug\net6.0\Ex1Classe.AssemblyInfo.cs
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Ex1Classe\Ex1Classe\obj\Debug\net6.0\Ex1Classe.csproj.CoreCompileInputs.cache
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Ex1Classe\Ex1Classe\obj\Debug\net6.0\Ex1Classe.dll
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Ex1Classe\Ex1Classe\obj\Debug\net6.0\refint\Ex1Classe.dll
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Ex1Classe\Ex1Classe\obj\Debug\net6.0\Ex1Classe.pdb
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Ex1Classe\Ex1Classe\obj\Debug\net6.0\Ex1Classe.genruntimeconfig.cache
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Ex1Classe\Ex1Classe\obj\Debug\net6.0\ref\Ex1Classe.dll

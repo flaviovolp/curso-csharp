@@ -1,0 +1,15 @@
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\VetorExemplo2\VetorExemplo2\bin\Debug\net6.0\VetorExemplo2.exe
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\VetorExemplo2\VetorExemplo2\bin\Debug\net6.0\VetorExemplo2.deps.json
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\VetorExemplo2\VetorExemplo2\bin\Debug\net6.0\VetorExemplo2.runtimeconfig.json
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\VetorExemplo2\VetorExemplo2\bin\Debug\net6.0\VetorExemplo2.dll
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\VetorExemplo2\VetorExemplo2\bin\Debug\net6.0\VetorExemplo2.pdb
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\VetorExemplo2\VetorExemplo2\obj\Debug\net6.0\VetorExemplo2.csproj.AssemblyReference.cache
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\VetorExemplo2\VetorExemplo2\obj\Debug\net6.0\VetorExemplo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\VetorExemplo2\VetorExemplo2\obj\Debug\net6.0\VetorExemplo2.AssemblyInfoInputs.cache
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\VetorExemplo2\VetorExemplo2\obj\Debug\net6.0\VetorExemplo2.AssemblyInfo.cs
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\VetorExemplo2\VetorExemplo2\obj\Debug\net6.0\VetorExemplo2.csproj.CoreCompileInputs.cache
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\VetorExemplo2\VetorExemplo2\obj\Debug\net6.0\VetorExemplo2.dll
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\VetorExemplo2\VetorExemplo2\obj\Debug\net6.0\refint\VetorExemplo2.dll
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\VetorExemplo2\VetorExemplo2\obj\Debug\net6.0\VetorExemplo2.pdb
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\VetorExemplo2\VetorExemplo2\obj\Debug\net6.0\VetorExemplo2.genruntimeconfig.cache
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\VetorExemplo2\VetorExemplo2\obj\Debug\net6.0\ref\VetorExemplo2.dll

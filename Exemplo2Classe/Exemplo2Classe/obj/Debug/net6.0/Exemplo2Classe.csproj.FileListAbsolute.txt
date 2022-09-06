@@ -1,0 +1,15 @@
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Exemplo2Classe\Exemplo2Classe\obj\Debug\net6.0\Exemplo2Classe.csproj.AssemblyReference.cache
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Exemplo2Classe\Exemplo2Classe\obj\Debug\net6.0\Exemplo2Classe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Exemplo2Classe\Exemplo2Classe\obj\Debug\net6.0\Exemplo2Classe.AssemblyInfoInputs.cache
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Exemplo2Classe\Exemplo2Classe\obj\Debug\net6.0\Exemplo2Classe.AssemblyInfo.cs
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Exemplo2Classe\Exemplo2Classe\obj\Debug\net6.0\Exemplo2Classe.csproj.CoreCompileInputs.cache
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Exemplo2Classe\Exemplo2Classe\bin\Debug\net6.0\Exemplo2Classe.exe
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Exemplo2Classe\Exemplo2Classe\bin\Debug\net6.0\Exemplo2Classe.deps.json
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Exemplo2Classe\Exemplo2Classe\bin\Debug\net6.0\Exemplo2Classe.runtimeconfig.json
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Exemplo2Classe\Exemplo2Classe\bin\Debug\net6.0\Exemplo2Classe.dll
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Exemplo2Classe\Exemplo2Classe\bin\Debug\net6.0\Exemplo2Classe.pdb
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Exemplo2Classe\Exemplo2Classe\obj\Debug\net6.0\Exemplo2Classe.dll
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Exemplo2Classe\Exemplo2Classe\obj\Debug\net6.0\refint\Exemplo2Classe.dll
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Exemplo2Classe\Exemplo2Classe\obj\Debug\net6.0\Exemplo2Classe.pdb
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Exemplo2Classe\Exemplo2Classe\obj\Debug\net6.0\Exemplo2Classe.genruntimeconfig.cache
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Exemplo2Classe\Exemplo2Classe\obj\Debug\net6.0\ref\Exemplo2Classe.dll

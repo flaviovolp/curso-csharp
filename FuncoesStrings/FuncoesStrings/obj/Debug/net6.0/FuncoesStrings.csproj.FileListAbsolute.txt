@@ -1,0 +1,15 @@
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\FuncoesStrings\FuncoesStrings\bin\Debug\net6.0\FuncoesStrings.exe
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\FuncoesStrings\FuncoesStrings\bin\Debug\net6.0\FuncoesStrings.deps.json
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\FuncoesStrings\FuncoesStrings\bin\Debug\net6.0\FuncoesStrings.runtimeconfig.json
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\FuncoesStrings\FuncoesStrings\bin\Debug\net6.0\FuncoesStrings.dll
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\FuncoesStrings\FuncoesStrings\bin\Debug\net6.0\FuncoesStrings.pdb
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\FuncoesStrings\FuncoesStrings\obj\Debug\net6.0\FuncoesStrings.csproj.AssemblyReference.cache
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\FuncoesStrings\FuncoesStrings\obj\Debug\net6.0\FuncoesStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\FuncoesStrings\FuncoesStrings\obj\Debug\net6.0\FuncoesStrings.AssemblyInfoInputs.cache
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\FuncoesStrings\FuncoesStrings\obj\Debug\net6.0\FuncoesStrings.AssemblyInfo.cs
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\FuncoesStrings\FuncoesStrings\obj\Debug\net6.0\FuncoesStrings.csproj.CoreCompileInputs.cache
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\FuncoesStrings\FuncoesStrings\obj\Debug\net6.0\FuncoesStrings.dll
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\FuncoesStrings\FuncoesStrings\obj\Debug\net6.0\refint\FuncoesStrings.dll
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\FuncoesStrings\FuncoesStrings\obj\Debug\net6.0\FuncoesStrings.pdb
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\FuncoesStrings\FuncoesStrings\obj\Debug\net6.0\FuncoesStrings.genruntimeconfig.cache
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\FuncoesStrings\FuncoesStrings\obj\Debug\net6.0\ref\FuncoesStrings.dll

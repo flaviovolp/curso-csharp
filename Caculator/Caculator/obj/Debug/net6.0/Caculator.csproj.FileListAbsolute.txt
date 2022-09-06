@@ -1,0 +1,15 @@
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Caculator\Caculator\bin\Debug\net6.0\Caculator.exe
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Caculator\Caculator\bin\Debug\net6.0\Caculator.deps.json
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Caculator\Caculator\bin\Debug\net6.0\Caculator.runtimeconfig.json
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Caculator\Caculator\bin\Debug\net6.0\Caculator.dll
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Caculator\Caculator\bin\Debug\net6.0\Caculator.pdb
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Caculator\Caculator\obj\Debug\net6.0\Caculator.csproj.AssemblyReference.cache
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Caculator\Caculator\obj\Debug\net6.0\Caculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Caculator\Caculator\obj\Debug\net6.0\Caculator.AssemblyInfoInputs.cache
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Caculator\Caculator\obj\Debug\net6.0\Caculator.AssemblyInfo.cs
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Caculator\Caculator\obj\Debug\net6.0\Caculator.csproj.CoreCompileInputs.cache
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Caculator\Caculator\obj\Debug\net6.0\Caculator.dll
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Caculator\Caculator\obj\Debug\net6.0\refint\Caculator.dll
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Caculator\Caculator\obj\Debug\net6.0\Caculator.pdb
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Caculator\Caculator\obj\Debug\net6.0\Caculator.genruntimeconfig.cache
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Caculator\Caculator\obj\Debug\net6.0\ref\Caculator.dll

@@ -1,0 +1,15 @@
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ExercicioEntradaDados\ExercicioEntradaDados\bin\Debug\net6.0\ExercicioEntradaDados.exe
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ExercicioEntradaDados\ExercicioEntradaDados\bin\Debug\net6.0\ExercicioEntradaDados.deps.json
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ExercicioEntradaDados\ExercicioEntradaDados\bin\Debug\net6.0\ExercicioEntradaDados.runtimeconfig.json
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ExercicioEntradaDados\ExercicioEntradaDados\bin\Debug\net6.0\ExercicioEntradaDados.dll
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ExercicioEntradaDados\ExercicioEntradaDados\bin\Debug\net6.0\ExercicioEntradaDados.pdb
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ExercicioEntradaDados\ExercicioEntradaDados\obj\Debug\net6.0\ExercicioEntradaDados.csproj.AssemblyReference.cache
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ExercicioEntradaDados\ExercicioEntradaDados\obj\Debug\net6.0\ExercicioEntradaDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ExercicioEntradaDados\ExercicioEntradaDados\obj\Debug\net6.0\ExercicioEntradaDados.AssemblyInfoInputs.cache
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ExercicioEntradaDados\ExercicioEntradaDados\obj\Debug\net6.0\ExercicioEntradaDados.AssemblyInfo.cs
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ExercicioEntradaDados\ExercicioEntradaDados\obj\Debug\net6.0\ExercicioEntradaDados.csproj.CoreCompileInputs.cache
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ExercicioEntradaDados\ExercicioEntradaDados\obj\Debug\net6.0\ExercicioEntradaDados.dll
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ExercicioEntradaDados\ExercicioEntradaDados\obj\Debug\net6.0\refint\ExercicioEntradaDados.dll
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ExercicioEntradaDados\ExercicioEntradaDados\obj\Debug\net6.0\ExercicioEntradaDados.pdb
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ExercicioEntradaDados\ExercicioEntradaDados\obj\Debug\net6.0\ExercicioEntradaDados.genruntimeconfig.cache
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ExercicioEntradaDados\ExercicioEntradaDados\obj\Debug\net6.0\ref\ExercicioEntradaDados.dll

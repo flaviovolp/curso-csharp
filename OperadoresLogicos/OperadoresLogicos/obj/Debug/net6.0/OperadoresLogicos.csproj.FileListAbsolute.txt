@@ -1,0 +1,15 @@
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\OperadoresLogicos\OperadoresLogicos\bin\Debug\net6.0\OperadoresLogicos.exe
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\OperadoresLogicos\OperadoresLogicos\bin\Debug\net6.0\OperadoresLogicos.deps.json
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\OperadoresLogicos\OperadoresLogicos\bin\Debug\net6.0\OperadoresLogicos.runtimeconfig.json
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\OperadoresLogicos\OperadoresLogicos\bin\Debug\net6.0\OperadoresLogicos.dll
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\OperadoresLogicos\OperadoresLogicos\bin\Debug\net6.0\OperadoresLogicos.pdb
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\OperadoresLogicos\OperadoresLogicos\obj\Debug\net6.0\OperadoresLogicos.csproj.AssemblyReference.cache
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\OperadoresLogicos\OperadoresLogicos\obj\Debug\net6.0\OperadoresLogicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\OperadoresLogicos\OperadoresLogicos\obj\Debug\net6.0\OperadoresLogicos.AssemblyInfoInputs.cache
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\OperadoresLogicos\OperadoresLogicos\obj\Debug\net6.0\OperadoresLogicos.AssemblyInfo.cs
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\OperadoresLogicos\OperadoresLogicos\obj\Debug\net6.0\OperadoresLogicos.csproj.CoreCompileInputs.cache
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\OperadoresLogicos\OperadoresLogicos\obj\Debug\net6.0\OperadoresLogicos.dll
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\OperadoresLogicos\OperadoresLogicos\obj\Debug\net6.0\refint\OperadoresLogicos.dll
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\OperadoresLogicos\OperadoresLogicos\obj\Debug\net6.0\OperadoresLogicos.pdb
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\OperadoresLogicos\OperadoresLogicos\obj\Debug\net6.0\OperadoresLogicos.genruntimeconfig.cache
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\OperadoresLogicos\OperadoresLogicos\obj\Debug\net6.0\ref\OperadoresLogicos.dll

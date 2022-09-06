@@ -1,0 +1,15 @@
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\AreaTriangulo\AreaTriangulo\bin\Debug\net6.0\AreaTriangulo.exe
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\AreaTriangulo\AreaTriangulo\bin\Debug\net6.0\AreaTriangulo.deps.json
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\AreaTriangulo\AreaTriangulo\bin\Debug\net6.0\AreaTriangulo.runtimeconfig.json
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\AreaTriangulo\AreaTriangulo\bin\Debug\net6.0\AreaTriangulo.dll
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\AreaTriangulo\AreaTriangulo\bin\Debug\net6.0\AreaTriangulo.pdb
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\AreaTriangulo\AreaTriangulo\obj\Debug\net6.0\AreaTriangulo.csproj.AssemblyReference.cache
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\AreaTriangulo\AreaTriangulo\obj\Debug\net6.0\AreaTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\AreaTriangulo\AreaTriangulo\obj\Debug\net6.0\AreaTriangulo.AssemblyInfoInputs.cache
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\AreaTriangulo\AreaTriangulo\obj\Debug\net6.0\AreaTriangulo.AssemblyInfo.cs
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\AreaTriangulo\AreaTriangulo\obj\Debug\net6.0\AreaTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\AreaTriangulo\AreaTriangulo\obj\Debug\net6.0\AreaTriangulo.dll
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\AreaTriangulo\AreaTriangulo\obj\Debug\net6.0\refint\AreaTriangulo.dll
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\AreaTriangulo\AreaTriangulo\obj\Debug\net6.0\AreaTriangulo.pdb
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\AreaTriangulo\AreaTriangulo\obj\Debug\net6.0\AreaTriangulo.genruntimeconfig.cache
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\AreaTriangulo\AreaTriangulo\obj\Debug\net6.0\ref\AreaTriangulo.dll

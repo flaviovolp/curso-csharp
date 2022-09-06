@@ -1,0 +1,15 @@
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\AreaTrianguloClasse\AreaTrianguloClasse\bin\Debug\net6.0\AreaTrianguloClasse.exe
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\AreaTrianguloClasse\AreaTrianguloClasse\bin\Debug\net6.0\AreaTrianguloClasse.deps.json
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\AreaTrianguloClasse\AreaTrianguloClasse\bin\Debug\net6.0\AreaTrianguloClasse.runtimeconfig.json
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\AreaTrianguloClasse\AreaTrianguloClasse\bin\Debug\net6.0\AreaTrianguloClasse.dll
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\AreaTrianguloClasse\AreaTrianguloClasse\bin\Debug\net6.0\AreaTrianguloClasse.pdb
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\AreaTrianguloClasse\AreaTrianguloClasse\obj\Debug\net6.0\AreaTrianguloClasse.csproj.AssemblyReference.cache
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\AreaTrianguloClasse\AreaTrianguloClasse\obj\Debug\net6.0\AreaTrianguloClasse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\AreaTrianguloClasse\AreaTrianguloClasse\obj\Debug\net6.0\AreaTrianguloClasse.AssemblyInfoInputs.cache
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\AreaTrianguloClasse\AreaTrianguloClasse\obj\Debug\net6.0\AreaTrianguloClasse.AssemblyInfo.cs
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\AreaTrianguloClasse\AreaTrianguloClasse\obj\Debug\net6.0\AreaTrianguloClasse.csproj.CoreCompileInputs.cache
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\AreaTrianguloClasse\AreaTrianguloClasse\obj\Debug\net6.0\AreaTrianguloClasse.dll
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\AreaTrianguloClasse\AreaTrianguloClasse\obj\Debug\net6.0\refint\AreaTrianguloClasse.dll
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\AreaTrianguloClasse\AreaTrianguloClasse\obj\Debug\net6.0\AreaTrianguloClasse.pdb
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\AreaTrianguloClasse\AreaTrianguloClasse\obj\Debug\net6.0\AreaTrianguloClasse.genruntimeconfig.cache
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\AreaTrianguloClasse\AreaTrianguloClasse\obj\Debug\net6.0\ref\AreaTrianguloClasse.dll

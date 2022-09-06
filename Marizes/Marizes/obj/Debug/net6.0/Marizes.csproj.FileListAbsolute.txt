@@ -1,0 +1,15 @@
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Marizes\Marizes\bin\Debug\net6.0\Marizes.exe
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Marizes\Marizes\bin\Debug\net6.0\Marizes.deps.json
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Marizes\Marizes\bin\Debug\net6.0\Marizes.runtimeconfig.json
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Marizes\Marizes\bin\Debug\net6.0\Marizes.dll
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Marizes\Marizes\bin\Debug\net6.0\Marizes.pdb
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Marizes\Marizes\obj\Debug\net6.0\Marizes.csproj.AssemblyReference.cache
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Marizes\Marizes\obj\Debug\net6.0\Marizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Marizes\Marizes\obj\Debug\net6.0\Marizes.AssemblyInfoInputs.cache
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Marizes\Marizes\obj\Debug\net6.0\Marizes.AssemblyInfo.cs
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Marizes\Marizes\obj\Debug\net6.0\Marizes.csproj.CoreCompileInputs.cache
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Marizes\Marizes\obj\Debug\net6.0\Marizes.dll
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Marizes\Marizes\obj\Debug\net6.0\refint\Marizes.dll
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Marizes\Marizes\obj\Debug\net6.0\Marizes.pdb
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Marizes\Marizes\obj\Debug\net6.0\Marizes.genruntimeconfig.cache
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Marizes\Marizes\obj\Debug\net6.0\ref\Marizes.dll

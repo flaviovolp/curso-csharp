@@ -1,0 +1,15 @@
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\PropriedadesDateTime\PropriedadesDateTime\bin\Debug\net6.0\PropriedadesDateTime.exe
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\PropriedadesDateTime\PropriedadesDateTime\bin\Debug\net6.0\PropriedadesDateTime.deps.json
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\PropriedadesDateTime\PropriedadesDateTime\bin\Debug\net6.0\PropriedadesDateTime.runtimeconfig.json
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\PropriedadesDateTime\PropriedadesDateTime\bin\Debug\net6.0\PropriedadesDateTime.dll
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\PropriedadesDateTime\PropriedadesDateTime\bin\Debug\net6.0\PropriedadesDateTime.pdb
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\PropriedadesDateTime\PropriedadesDateTime\obj\Debug\net6.0\PropriedadesDateTime.csproj.AssemblyReference.cache
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\PropriedadesDateTime\PropriedadesDateTime\obj\Debug\net6.0\PropriedadesDateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\PropriedadesDateTime\PropriedadesDateTime\obj\Debug\net6.0\PropriedadesDateTime.AssemblyInfoInputs.cache
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\PropriedadesDateTime\PropriedadesDateTime\obj\Debug\net6.0\PropriedadesDateTime.AssemblyInfo.cs
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\PropriedadesDateTime\PropriedadesDateTime\obj\Debug\net6.0\PropriedadesDateTime.csproj.CoreCompileInputs.cache
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\PropriedadesDateTime\PropriedadesDateTime\obj\Debug\net6.0\PropriedadesDateTime.dll
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\PropriedadesDateTime\PropriedadesDateTime\obj\Debug\net6.0\refint\PropriedadesDateTime.dll
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\PropriedadesDateTime\PropriedadesDateTime\obj\Debug\net6.0\PropriedadesDateTime.pdb
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\PropriedadesDateTime\PropriedadesDateTime\obj\Debug\net6.0\PropriedadesDateTime.genruntimeconfig.cache
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\PropriedadesDateTime\PropriedadesDateTime\obj\Debug\net6.0\ref\PropriedadesDateTime.dll

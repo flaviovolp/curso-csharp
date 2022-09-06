@@ -1,0 +1,15 @@
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Ex3ListaClasse\Ex3ListaClasse\bin\Debug\net6.0\Ex3ListaClasse.exe
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Ex3ListaClasse\Ex3ListaClasse\bin\Debug\net6.0\Ex3ListaClasse.deps.json
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Ex3ListaClasse\Ex3ListaClasse\bin\Debug\net6.0\Ex3ListaClasse.runtimeconfig.json
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Ex3ListaClasse\Ex3ListaClasse\bin\Debug\net6.0\Ex3ListaClasse.dll
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Ex3ListaClasse\Ex3ListaClasse\bin\Debug\net6.0\Ex3ListaClasse.pdb
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Ex3ListaClasse\Ex3ListaClasse\obj\Debug\net6.0\Ex3ListaClasse.csproj.AssemblyReference.cache
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Ex3ListaClasse\Ex3ListaClasse\obj\Debug\net6.0\Ex3ListaClasse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Ex3ListaClasse\Ex3ListaClasse\obj\Debug\net6.0\Ex3ListaClasse.AssemblyInfoInputs.cache
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Ex3ListaClasse\Ex3ListaClasse\obj\Debug\net6.0\Ex3ListaClasse.AssemblyInfo.cs
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Ex3ListaClasse\Ex3ListaClasse\obj\Debug\net6.0\Ex3ListaClasse.csproj.CoreCompileInputs.cache
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Ex3ListaClasse\Ex3ListaClasse\obj\Debug\net6.0\Ex3ListaClasse.dll
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Ex3ListaClasse\Ex3ListaClasse\obj\Debug\net6.0\refint\Ex3ListaClasse.dll
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Ex3ListaClasse\Ex3ListaClasse\obj\Debug\net6.0\Ex3ListaClasse.pdb
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Ex3ListaClasse\Ex3ListaClasse\obj\Debug\net6.0\Ex3ListaClasse.genruntimeconfig.cache
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\Ex3ListaClasse\Ex3ListaClasse\obj\Debug\net6.0\ref\Ex3ListaClasse.dll

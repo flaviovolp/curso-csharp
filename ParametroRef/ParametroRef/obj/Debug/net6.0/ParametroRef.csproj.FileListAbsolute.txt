@@ -1,0 +1,15 @@
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ParametroRef\ParametroRef\bin\Debug\net6.0\ParametroRef.exe
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ParametroRef\ParametroRef\bin\Debug\net6.0\ParametroRef.deps.json
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ParametroRef\ParametroRef\bin\Debug\net6.0\ParametroRef.runtimeconfig.json
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ParametroRef\ParametroRef\bin\Debug\net6.0\ParametroRef.dll
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ParametroRef\ParametroRef\bin\Debug\net6.0\ParametroRef.pdb
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ParametroRef\ParametroRef\obj\Debug\net6.0\ParametroRef.csproj.AssemblyReference.cache
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ParametroRef\ParametroRef\obj\Debug\net6.0\ParametroRef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ParametroRef\ParametroRef\obj\Debug\net6.0\ParametroRef.AssemblyInfoInputs.cache
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ParametroRef\ParametroRef\obj\Debug\net6.0\ParametroRef.AssemblyInfo.cs
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ParametroRef\ParametroRef\obj\Debug\net6.0\ParametroRef.csproj.CoreCompileInputs.cache
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ParametroRef\ParametroRef\obj\Debug\net6.0\ParametroRef.dll
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ParametroRef\ParametroRef\obj\Debug\net6.0\refint\ParametroRef.dll
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ParametroRef\ParametroRef\obj\Debug\net6.0\ParametroRef.pdb
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ParametroRef\ParametroRef\obj\Debug\net6.0\ParametroRef.genruntimeconfig.cache
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ParametroRef\ParametroRef\obj\Debug\net6.0\ref\ParametroRef.dll

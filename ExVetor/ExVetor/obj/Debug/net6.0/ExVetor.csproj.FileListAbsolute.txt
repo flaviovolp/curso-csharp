@@ -1,0 +1,15 @@
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ExVetor\ExVetor\bin\Debug\net6.0\ExVetor.exe
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ExVetor\ExVetor\bin\Debug\net6.0\ExVetor.deps.json
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ExVetor\ExVetor\bin\Debug\net6.0\ExVetor.runtimeconfig.json
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ExVetor\ExVetor\bin\Debug\net6.0\ExVetor.dll
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ExVetor\ExVetor\bin\Debug\net6.0\ExVetor.pdb
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ExVetor\ExVetor\obj\Debug\net6.0\ExVetor.csproj.AssemblyReference.cache
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ExVetor\ExVetor\obj\Debug\net6.0\ExVetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ExVetor\ExVetor\obj\Debug\net6.0\ExVetor.AssemblyInfoInputs.cache
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ExVetor\ExVetor\obj\Debug\net6.0\ExVetor.AssemblyInfo.cs
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ExVetor\ExVetor\obj\Debug\net6.0\ExVetor.csproj.CoreCompileInputs.cache
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ExVetor\ExVetor\obj\Debug\net6.0\ExVetor.dll
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ExVetor\ExVetor\obj\Debug\net6.0\refint\ExVetor.dll
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ExVetor\ExVetor\obj\Debug\net6.0\ExVetor.pdb
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ExVetor\ExVetor\obj\Debug\net6.0\ExVetor.genruntimeconfig.cache
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\ExVetor\ExVetor\obj\Debug\net6.0\ref\ExVetor.dll

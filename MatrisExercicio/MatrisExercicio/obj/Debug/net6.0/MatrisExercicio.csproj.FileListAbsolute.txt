@@ -1,0 +1,15 @@
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\MatrisExercicio\MatrisExercicio\bin\Debug\net6.0\MatrisExercicio.exe
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\MatrisExercicio\MatrisExercicio\bin\Debug\net6.0\MatrisExercicio.deps.json
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\MatrisExercicio\MatrisExercicio\bin\Debug\net6.0\MatrisExercicio.runtimeconfig.json
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\MatrisExercicio\MatrisExercicio\bin\Debug\net6.0\MatrisExercicio.dll
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\MatrisExercicio\MatrisExercicio\bin\Debug\net6.0\MatrisExercicio.pdb
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\MatrisExercicio\MatrisExercicio\obj\Debug\net6.0\MatrisExercicio.csproj.AssemblyReference.cache
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\MatrisExercicio\MatrisExercicio\obj\Debug\net6.0\MatrisExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\MatrisExercicio\MatrisExercicio\obj\Debug\net6.0\MatrisExercicio.AssemblyInfoInputs.cache
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\MatrisExercicio\MatrisExercicio\obj\Debug\net6.0\MatrisExercicio.AssemblyInfo.cs
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\MatrisExercicio\MatrisExercicio\obj\Debug\net6.0\MatrisExercicio.csproj.CoreCompileInputs.cache
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\MatrisExercicio\MatrisExercicio\obj\Debug\net6.0\MatrisExercicio.dll
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\MatrisExercicio\MatrisExercicio\obj\Debug\net6.0\refint\MatrisExercicio.dll
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\MatrisExercicio\MatrisExercicio\obj\Debug\net6.0\MatrisExercicio.pdb
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\MatrisExercicio\MatrisExercicio\obj\Debug\net6.0\MatrisExercicio.genruntimeconfig.cache
+C:\Users\Flavio\Documents\CURSO_CSHARP_UDEMY\ws-vs2022\MatrisExercicio\MatrisExercicio\obj\Debug\net6.0\ref\MatrisExercicio.dll
